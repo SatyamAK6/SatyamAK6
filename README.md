@@ -1,0 +1,7 @@
+- 👋 Hi, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I’m Satyam Khatrani
+- 👀 I’m interested in Blockchain Technology
+- 🌱 I’m currently learning Ethereum
+- 💞️ I’m looking to collaborate on Crypto-Currency Development
+- 📫 How to reach me on :
+  - :office: [LinkedIn](https://www.linkedin.com/in/satyam-khatrani-620723101)
+  - :cloud: [Skype](https://join.skype.com/invite/b2Gqefcq5Smt)
